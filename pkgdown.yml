@@ -1,0 +1,34 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  advanced_rendering: advanced_rendering.html
+  data_conversion: data_conversion.html
+  dependencies: dependencies.html
+  development_and_debugging: development_and_debugging.html
+  gallery: gallery.html
+  gallery/bubbles/index: gallery/bubbles/index.html
+  gallery/bullets/index: gallery/bullets/index.html
+  gallery/calendar/index: gallery/calendar/index.html
+  gallery/cartogram/index: gallery/cartogram/index.html
+  gallery/chord/index: gallery/chord/index.html
+  gallery/circlepacking/index: gallery/circlepacking/index.html
+  gallery/dendogram/index: gallery/dendogram/index.html
+  gallery/forcegraph/index: gallery/forcegraph/index.html
+  gallery/morley/index: gallery/morley/index.html
+  gallery/population/index: gallery/population/index.html
+  gallery/radialtree/index: gallery/radialtree/index.html
+  gallery/stackedbars/index: gallery/stackedbars/index.html
+  gallery/streamgraph/index: gallery/streamgraph/index.html
+  gallery/sunburst/index: gallery/sunburst/index.html
+  gallery/treemap/index: gallery/treemap/index.html
+  gallery/voronoi/index: gallery/voronoi/index.html
+  learning_d3: learning_d3.html
+  package_development: package_development.html
+  publishing: publishing.html
+  shiny: shiny.html
+  visualization_options: visualization_options.html
+last_built: 2024-10-06T22:04Z
+urls:
+  reference: https://rstudio.github.io/r2d3/reference
+  article: https://rstudio.github.io/r2d3/articles
